@@ -1,0 +1,158 @@
+#EXTINF:-1 group-title="##香港##",now SPORTS PRIME
+http://livetv.dnsfor.me:80/channel.12.m3u8
+#EXTINF:-1 group-title="##香港##",now直播台
+https://api.leonardpark.dev/live/now/331
+#EXTINF:-1 group-title="##香港##",now新聞台
+http://livetv.dnsfor.me:80/channel.4.m3u8
+#EXTINF:-1 group-title="##香港##",RHK32
+http://198.16.64.10:8278/rhk32_twn/playlist.m3u8?tid=MBCB4455322944553229&ct=19226&tsum=60bac13753ada5abc8873783d6611ebd
+#EXTINF:-1 group-title="##香港##",RTHK32
+https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
+#EXTINF:-1 group-title="##香港##",TVB 星河
+http://jyjxy.7766.org:808/hls/35/index.m3u8
+#EXTINF:-1 group-title="##香港##",TVB J2
+https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
+#EXTINF:-1 group-title="##香港##",TVB華麗台
+http://198.16.64.10:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e
+#EXTINF:-1 group-title="##香港##",VIUTV 6
+http://198.16.64.10:8278/viusix_twn/playlist.m3u8?tid=MC6C1412376614123766&ct=19225&tsum=f4273425d435057616c3380b9e2a0287
+#EXTINF:-1 group-title="##香港##",ViuTV 6
+http://198.16.64.10:8278/viusix_twn/playlist.m3u8?tid=MC6C1412376614123766&ct=19225&tsum=f4273425d435057616c3380b9e2a0287
+#EXTINF:-1 group-title="##香港##",VIUTV
+http://198.16.64.10:8278/viu_twn/playlist.m3u8?tid=MF2F6219999362199993&ct=19225&tsum=0315b071e42f6b8b6f49b6ca58b7393b
+#EXTINF:-1 group-title="##香港##",ViuTV
+http://198.16.64.10:8278/viu_twn/playlist.m3u8?tid=MF2F6219999362199993&ct=19225&tsum=0315b071e42f6b8b6f49b6ca58b7393b
+#EXTINF:-1 group-title="##香港##",ViuTV
+http://50.7.220.74:8278/9ae6d37d9a/playlist.m3u8?tid=m7728dbb8abe7&ct=18336&tsum=6b7f957f06b7cfabd928653808a52514
+#EXTINF:-1 group-title="##香港##",八度空間
+http://51.79.82.208:16005
+#EXTINF:-1 group-title="##香港##",天映頻道
+http://51.79.82.208:16024
+#EXTINF:-1 group-title="##香港##",有線18台
+rtmp://59.124.75.138/sat/hk041
+#EXTINF:-1 group-title="##香港##",有線新聞台
+http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
+#EXTINF:-1 group-title="##香港##",亞洲新聞台
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1 group-title="##香港##",明珠台
+http://120.84.96.161:808/hls/26/index.m3u8
+#EXTINF:-1 group-title="##香港##",明珠台
+http://120.84.96.69:808/hls/26/index.m3u8
+#EXTINF:-1 group-title="##香港##",明珠台
+http://gg.gg/GDTVB84
+#EXTINF:-1 group-title="##香港##",明珠台
+http://jyjxy.7766.org:808/hls/37/index.m3u8
+#EXTINF:-1 group-title="##香港##",香港開電視
+http://media.fantv.hk/m3u8/archive/channel2.m3u8
+#EXTINF:-1 group-title="##香港##",香港開電視
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+#EXTINF:-1 group-title="##香港##",香港衛視HKS
+http://hw-play.lezhibo.com/live/bd2d26fd492b403d8ec69de1859bdb31.m3u8
+#EXTINF:-1 group-title="##香港##",香港衛視文旅
+https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
+#EXTINF:-1 group-title="##香港##",財經體育資訊台
+http://120.84.96.161:808/hls/86/index.m3u8
+#EXTINF:-1 group-title="##香港##",財經體育資訊台
+http://120.84.96.69:808/hls/86/index.m3u8
+#EXTINF:-1 group-title="##香港##",財經體育資訊台
+https://j3.lhlh.app/mv.m3u8
+#EXTINF:-1 group-title="##香港##",財經體育資訊台
+https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
+#EXTINF:-1 group-title="##香港##",無線新聞台
+http://198.16.64.10:8278/inews_twn/playlist.m3u8?tid=m2206a7a6925a&ct=18336&tsum=47d564f6425ee7ceb9ff1ed026f89669
+#EXTINF:-1 group-title="##香港##",翡翠台
+http://120.84.96.161:808/hls/25/index.m3u8
+#EXTINF:-1 group-title="##香港##",翡翠台
+http://120.84.96.69:808/hls/25/index.m3u8
+#EXTINF:-1 group-title="##香港##",翡翠台
+http://gg.gg/GDTVB4
+#EXTINF:-1 group-title="##香港##",翡翠台
+http://gg.gg/GDTVB5
+#EXTINF:-1 group-title="##香港##",翡翠台
+http://gg.gg/GDTVB5
+#EXTINF:-1 group-title="##香港##",翡翠台
+http://jyjxy.7766.org:808/hls/36/index.m3u8
+#EXTINF:-1 group-title="##香港##",翡翠華麗
+http://23.237.10.66:16410
+#EXTINF:-1 group-title="##香港##",鳳凰中文
+http://120.84.96.161:808/hls/29/index.m3u8
+#EXTINF:-1 group-title="##香港##",鳳凰中文
+http://120.84.96.69:808/hls/29/index.m3u8
+#EXTINF:-1 group-title="##香港##",鳳凰中文
+http://123.51.229.65:18580/.m3u8
+#EXTINF:-1 group-title="##香港##",鳳凰中文
+http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+#EXTINF:-1 group-title="##香港##",鳳凰中文
+http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
+#EXTINF:-1 group-title="##香港##",鳳凰中文
+http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
+#EXTINF:-1 group-title="##香港##",鳳凰中文
+http://playtv-live.ifeng.com:80/live/06OLEGEGM4G_tv1.m3u8
+#EXTINF:-1 group-title="##香港##",鳳凰中文
+https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+#EXTINF:-1 group-title="##香港##",鳳凰中文
+https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
+#EXTINF:-1 group-title="##香港##",鳳凰香港
+http://120.84.96.161:808/hls/81/index.m3u8
+#EXTINF:-1 group-title="##香港##",鳳凰香港
+http://120.84.96.69:808/hls/81/index.m3u8
+#EXTINF:-1 group-title="##香港##",鳳凰香港
+http://jyjxy.7766.org:808/hls/34/index.m3u8
+#EXTINF:-1 group-title="##香港##",鳳凰資訊
+http://120.84.96.161:808/hls/28/index.m3u8
+#EXTINF:-1 group-title="##香港##",鳳凰資訊
+http://120.84.96.69:808/hls/28/index.m3u8
+#EXTINF:-1 group-title="##香港##",鳳凰資訊
+http://123.51.229.65:18581/.m3u8
+#EXTINF:-1 group-title="##香港##",鳳凰資訊
+http://jyjxy.7766.org:808/hls/33/index.m3u8
+#EXTINF:-1 group-title="##香港##",鳳凰資訊
+http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+#EXTINF:-1 group-title="##香港##",鳳凰資訊
+http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
+#EXTINF:-1 group-title="##香港##",鳳凰資訊
+http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv2.m3u8
+#EXTINF:-1 group-title="##香港##",鳳凰資訊
+https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+#EXTINF:-1 group-title="##香港##",鳳凰資訊
+https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
+#EXTINF:-1 group-title="##香港##",鳳凰電影
+http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
+#EXTINF:-1 group-title="##香港##",鳳凰電影台
+http://111.59.189.40:8445/tsfile/live/1022_1.m3u8?zgangd
+#EXTINF:-1 group-title="##香港##",鳳凰衛視中文台
+https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
+#EXTINF:-1 group-title="##香港##",鳳凰衛視諮詢台
+https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
+#EXTINF:-1 group-title="##香港##",點掌財經
+http://cclive2.aniu.tv/live/anzb.m3u8
+#EXTINF:-1 group-title="##香港##",耀才財經
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1 group-title="##香港##",耀才財經
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
+#EXTINF:-1 group-title="##香港##",耀才財經新聞
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1 group-title="##香港##",耀才財經新聞
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
+#EXTINF:-1 group-title="##香港##",麵包台
+https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+#EXTINF:-1 group-title="##香港##",麵包台
+https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+#EXTINF:-1 group-title="##香港##",TVB10
+http://txtest-xp2p.p2p.huya.com/src/1199563479466-1199563479466-5444317217472643072-2399127082388-10057-A-0-1.xs
+#EXTINF:-1 group-title="##香港##",TVB25
+http://txtest-xp2p.p2p.huya.com/src/1199561158071-1199561158071-5434346901866545152-2399122439598-10057-A-0-1.xs
+#EXTINF:-1 group-title="##香港##",TVB26
+http://txtest-xp2p.p2p.huya.com/src/1199561182641-1199561182641-5434452429213007872-2399122488738-10057-A-0-1.xs
+#EXTINF:-1 group-title="##香港##",TVB28
+http://txtest-xp2p.p2p.huya.com/src/1199561462555-1199561462555-5435654650688700416-2399123048566-10057-A-0-1.xs
+#EXTINF:-1 group-title="##香港##",TVB29
+http://txtest-xp2p.p2p.huya.com/src/1199563479615-1199563479615-5444317857422770176-2399127082686-10057-A-0-1.xs
+#EXTINF:-1 group-title="##香港##",TVB3
+http://txtest-xp2p.p2p.huya.com/src/1199561226091-1199561226091-5434639045542019072-2399122575638-10057-A-0-1.xs
+#EXTINF:-1 group-title="##香港##",TVB32
+http://txtest-xp2p.p2p.huya.com/src/1199563491137-1199563491137-5444367344035954688-2399127105730-10057-A-0-1.xs
+#EXTINF:-1 group-title="##香港##",TVB4
+http://txtest-xp2p.p2p.huya.com/src/1199563478941-1199563478941-5444314962614812672-2399127081338-10057-A-0-1.xs
+#EXTINF:-1 group-title="##香港##",TVB40
+http://txtest-xp2p.p2p.huya.com/src/1199561240999-1199561240999-5434703074914467840-2399122605454-10057-A-0-1.xs
