@@ -1,4 +1,4 @@
-亚洲电视台,#genre#
+香港频道,#genre#
 香港有線新聞[1280*720][1280*720][1280*720][1280*720],http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 凤凰资讯[960*540][960*540][960*540][960*540],http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰资讯[960*540][960*540][960*540][960*540],http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
@@ -78,7 +78,7 @@ TBS Seoul[1280*720][1920*1080],https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/pl
 韩国BBS佛教广播[1920*1080][1920*1080],http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8?zshijd
 韩国TBS[1280*720][1280*720],http://58.234.158.60:1935/catvlive/myStream/playlist.m3u8?zshijd
 韩国职业广播[853*480][853*480],http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8?zshijd
-HBO,#genre#
+HBO频道,#genre#
 HBO 2台,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 HBO 原創,http://198.16.64.10:8278/hbosignature_twn/playlist.m3u8?tid=MC5C5754321157543211&ct=19225&tsum=2b86077147813534b4cae6dd85bb3c4a
 HBO HD,http://198.16.64.10:8278/hbohd_twn/playlist.m3u8?tid=ME9E5260921952609219&ct=19225&tsum=a904cd480db106670befb11d14149fce
