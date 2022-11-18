@@ -78,5 +78,55 @@ TBS Seoul[1280*720][1920*1080],https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/pl
 韩国BBS佛教广播[1920*1080][1920*1080],http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8?zshijd
 韩国TBS[1280*720][1280*720],http://58.234.158.60:1935/catvlive/myStream/playlist.m3u8?zshijd
 韩国职业广播[853*480][853*480],http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8?zshijd
+BS Viceland HD[1024x576][h264xaacxscte_35][geo-limited],https://epg.pm/stream/5cc4f7309549d527692cf4b3b33b6f9bab27ad2c7133fab665cb4ec8bcd62dd2.m3u8
+NHK G Osaka (720p MujiTV)[1280x720][timed_id3xh264xaac][geo-limited],https://epg.pm/stream/36d050e36d7c1a656841316c896a58583821600017843f7b1957f5d1d62118f6.m3u8
+ABC (720p MujiTV)[1280x720][timed_id3xh264xaac][geo-limited],https://epg.pm/stream/73bd3a40c557c07c6766748effaea191e48d9aed968819b7e0c2b029c8cd5648.m3u8
+TV Osaka (720p MujiTV)[1280x720][timed_id3xh264xaac][geo-limited],https://epg.pm/stream/3d2da846d662d9264067c0d608bc9474c2696cee8240872f09700c3101497a11.m3u8
+YTV (720p MujiTV)[1280x720][timed_id3xh264xaac][geo-limited],https://epg.pm/stream/82497092676ddadd9465a476f1cd533db1809d2ff13e0871bc32368eb6ae7dd4.m3u8
+Animal Planet (720p)[960x540][timed_id3xh264xaac][geo-limited],https://epg.pm/stream/a50805a451e2694483bf6241c19bdc6dcb4e88aa951a83fdfb597b67e681cc13.m3u8
+Yomiuri TV  (1080p VTTV)[1920x1080][h264xaac],https://epg.pm/stream/9c26f9e884530bdd4e2ad0076d218d25cff350d11f04ec2b9098c09e3ce98f73.m3u8
+MBS (1080p VTTV)[1920x1080][h264xaac],https://epg.pm/stream/e23284f206a55688a793fe694afa36d3c443022110fde9ce1c88d90870cd7f90.m3u8
+ABC (1080p VTTV)[1920x1080][h264xaac],https://epg.pm/stream/7ea3219f8b2db57c4a36babaf2129556e2cafe96ab1162d0cae5260aaf018b17.m3u8
+TV Osaka (1080p VTTV)[1920x1080][h264xaac][geo-limited],https://epg.pm/stream/2887fb3ad703c155a7948a7ca8cb4b02da44b681e69a83b85846bd980593a863.m3u8
+KBS Kyoto (1080p VTTV)[1920x1080][h264xaac][geo-limited],https://epg.pm/stream/98357a955d186de9237f0977b1667b7b2d1ea193b509782084a8c26927919a2d.m3u8
+WOWOW Cinema[1920x1080][h264xaac][geo-limited],https://epg.pm/stream/468ee6dab730d0fb9528bc2f3498b7675a4020906de79dead317274b6f40f6c3.m3u8
+WOWOWプラス[1920x1080][h264xaac],https://epg.pm/stream/aa4fef328b19ce0039f2dd18a1748b770167407a987b25c65e6b4cfef8d86f73.m3u8
+BS SKYPerfecTV[1920x1080][h264xaac][geo-limited],https://epg.pm/stream/b33992736e527bc46669f7e0faf350edcb2497ccdb8108d1e30c7629819362d6.m3u8
+Disney Channel[960x540][h264xaac],https://epg.pm/stream/744b3e569599788d97d28f5e3010cf0308849d06fd156016fe5f130f02a1e262.m3u8
+BS Animax[1920x1080][h264xaac][geo-limited],https://epg.pm/stream/01c2fbb7251e62099f259a29f7853a1290b4482e914ee2a1d2dcb4d2a322b8bc.m3u8
+BS12[1920x1080][h264xaac][geo-limited],https://epg.pm/stream/1c1dce72bd293652281d6eb6f36c1afe0fba648c5c5a600c5a3d91a90f5d0af1.m3u8
+BS Nippon TV[1920x1080][h264xaac],https://epg.pm/stream/947d70bc821a4704a8d54e4032135a25fda716d0c9f39db9878645728b556184.m3u8
+BS Asahi[1920x1080][h264xaac],https://epg.pm/stream/20ba659732b61ed7a5afe50049bb5e3e336105a5f8d40c0dff13f7f515c2b9b9.m3u8
+Star Channel 3[1920x1080][h264xaac][geo-limited],https://epg.pm/stream/c55defcae8ec39612c9d1a282f98fe3b7c69051e4857572c41970257a4b37279.m3u8
+J SPORTS 1[1920x1080][h264xaac],https://epg.pm/stream/aa63daae66d99542f997f8fcb40e12d995c6bdf774a928cd8ea251d3c49bf255.m3u8
+Star Channel 1[1920x1080][h264xaac],https://epg.pm/stream/63527df21f07729a964f28b18ac191bc0ec55218884b8c17405bd02440460785.m3u8
+Green Channel[1920x1080][h264xaac][geo-limited],https://epg.pm/stream/b181dd801976450b27a6235d84e6e523483d9c0c4a0a54256ad70090801872b3.m3u8
+BS Fuji[1920x1080][h264xaac],https://epg.pm/stream/b92171c937c8e1d4d50e370c322b27b747b125d725492dff227c00a279729f1a.m3u8
+NHK BS1(with Sub)[1920x1080][h264xaac][geo-limited],https://epg.pm/stream/ffeae468a9b60e265295fc7fb3251d459e1c4b51d84aed858920fdd7d226cd2b.m3u8
+BS Fishing Vision[1920x1080][h264xaac],https://epg.pm/stream/16b6ec70b3a784cdc25058bb5164f45a8368c322e8a566b86e9860d24d4078fc.m3u8
+NHK BS1[1920x1080][h264xaac][geo-limited],https://epg.pm/stream/17e40d1519d181398c6f47e0d9138eeb251d4b09fae1a55fc52578ded7c40998.m3u8
+NHK BS Premium[1920x1080][h264xaac][geo-limited],https://epg.pm/stream/101519f390c1ab86c21c6329244a7a848ae654bd1abf8f95ad5642e1efb9af8d.m3u8
+WOWOW Prime[1920x1080][h264xaac],https://epg.pm/stream/88f9df7ad1daebd3c02137bb7b3e431931e64fb79534d507f1c494f3e71aaa40.m3u8
+WOWOW Live[1920x1080][h264xaac][geo-limited],https://epg.pm/stream/b7289a819b38b842f37c6541fda35ceb1a0df8cdfb21ff3623aa53b5c51553bb.m3u8
+J SPORTS 3[1920x1080][h264xaac],https://epg.pm/stream/315fd3d0d20492f8a92d4d283f4c699913c558ff38ccb59ff6f85f232c8d2d5e.m3u8
+NHK BS4K[1920x1080][h264xaac][geo-limited],https://epg.pm/stream/0d604fb76d529c1e6abd42b2511ab3b7b918a9b15e56f8a55b7bcd24964270a5.m3u8
+J SPORTS 4[1920x1080][h264xaac][geo-limited],https://epg.pm/stream/1ea51439a3f4e18465278d550af8faeec6441ed7cee4eeb981022d261f5b29a5.m3u8
+BS TBS[1920x1080][h264xaac][geo-limited],https://epg.pm/stream/6fcb01343b3c5ee7a3ec9eb816c3f9fc4c19c5a8e98c8198debda8d1283b7848.m3u8
+BS11[1920x1080][h264xaac][geo-limited],https://epg.pm/stream/5a7015317edfa945d2014ea0a90d00602ec1d948f7e2d9147d9289d20fdaa092.m3u8
+BS Japan Movie Channel[1920x1080][h264xaac],https://epg.pm/stream/601cba7f2869b9cbd5003340dd89768bea681ca736107f78bcacc8f37560b4db.m3u8
+Fuji TV  (1080p VTTV)[1920x1080][h264xaac],https://epg.pm/stream/2b8ddfb4de67703f855420d360b9a1f284b19aa62cee26ffb72b7c2241a7f63b.m3u8
+NHK E (1080p VTTV)[1920x1080][h264xaac][geo-limited],https://epg.pm/stream/c0cb34087935277f36f14be33e7de32b80f7481a542dac3197b6f8acc4f8959a.m3u8
+NHK G (1080p VTTV)[1920x1080][h264xaac][geo-limited],https://epg.pm/stream/b642f3e30c0025fad04954b337d0cc147fe1e1490b5bad9e73513b11aeb273fa.m3u8
+TOKYO MX1 (1080p VTTV)[1920x1080][h264xaac],https://epg.pm/stream/27cd515212616c7085e706eaa2c9452f5568bca56553bca1ed0c1cbfd9031973.m3u8
+NTV (1080p VTTV)[1920x1080][h264xaac][geo-limited],https://epg.pm/stream/0fb5076fbedf5f41f94e973041820775f2925f544d48514363d2af67c49d539e.m3u8
+HBO 2台,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+HBO 原創,http://198.16.64.10:8278/hbosignature_twn/playlist.m3u8?tid=MC5C5754321157543211&ct=19225&tsum=2b86077147813534b4cae6dd85bb3c4a
+HBO HD,http://198.16.64.10:8278/hbohd_twn/playlist.m3u8?tid=ME9E5260921952609219&ct=19225&tsum=a904cd480db106670befb11d14149fce
+HBO HD,http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?ct=19225&tid=ME9E5260921952609219&tsum=a904cd480db106670befb11d14149fce
+HBO Family,http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
+HBO Family,http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=MFCF7312728573127285&ct=18393&tsum=bc4d3db9ca83c3765cc75512a1bbbbe3
+HBO Signature,http://50.7.220.74:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
+HBO HITS,http://50.7.220.74:8278/hbohead_twn/playlist.m3u8?tid=MCDC6663932966639329&ct=19193&tsum=6999a99699b097f3af2ef550e5c81f93
+
 
 
