@@ -142,7 +142,6 @@ Jasmin TV,http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 阿拉伯半岛电视新闻网AlHurra,http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
 伊拉克-SharqiyaNews,http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
 柬埔寨-SEATV,https://edge6a.v2h-cdn.com/appt7/TDramaTV.stream_720p/playlist.m3u8
-
 泰国频道,#genre#
 NBT HD,https://cdn6.goprimetime.info/feed/202205171929/chnbt3/index.m3u8
 THAI PBS HD,https://cdn6.goprimetime.info/feed/202205171929/chthaipbs3/index.m3u8
