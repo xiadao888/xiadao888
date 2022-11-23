@@ -162,6 +162,7 @@ PPTV HD,https://cdn6.goprimetime.info/feed/202205171929/chpptvhd3/index.m3u8
 [加拿大]Sardari TV (1080p),http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
 [加拿大]Pardesi TV,http://stream.pardesitv.online/pardesi/index.m3u8
 世界杯2022,#genre#
+CCTV16-4K,https://raw.githubusercontent.com/xiadao888/xiadao888/main/CCTV16.m3u8
 CCTV16-4K-SDR源,http://111.20.105.192:6610/000000001000/5000000008000023254/index.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
 CCTV16-1080P-HLG源,http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 咪咕体育-4K-HLG源,http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?hls
